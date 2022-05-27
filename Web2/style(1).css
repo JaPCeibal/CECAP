@@ -1,0 +1,41 @@
+body {
+  background: url("vernalfalls.jpg");
+  color: lightgoldenrodyellow;
+}
+p {
+  font-family:cursive;
+  margin: 10px;
+  font-size: 18px;
+  text-align: center;
+}
+h1 {
+  font-weight: bold;
+  font-family:cursive;
+  text-align: center;
+}
+h2 {
+  text-align: center;
+}
+
+h3 { 
+    text-align: center;
+}
+h4 {
+  font-family: sans-serif;
+  text-align: center;
+}
+h5 {
+  font-family:serif;
+  text-align: right;
+}
+h6 {
+  font-style: italic;
+  text-align: left;
+}
+
+img {
+  width: 1300px;
+  border-radius: 20px;
+  margin: 10px;
+}
+  
