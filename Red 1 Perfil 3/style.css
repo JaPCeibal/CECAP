@@ -1,0 +1,14 @@
+body { padding-top: 70px; }
+
+.details-bar.cleanslate {
+  display: none!important;
+}
+
+.container-fluid {
+  max-width: 980px;
+  margin: 0 auto;
+}
+
+#profile-header {
+  background: url(hike.jpg)
+}
